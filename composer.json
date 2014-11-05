@@ -1,0 +1,18 @@
+{
+    "authors": [
+        {
+            "name": "Vyacheslav Dolya",
+            "email": "vyacheslav.dolya@gmail.com"
+        }
+    ],
+
+    "name": "reports",
+    "version": "0.0.1",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+            "Report\\": "src"
+        }
+    }
+}
